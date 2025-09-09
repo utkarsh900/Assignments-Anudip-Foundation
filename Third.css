@@ -1,0 +1,140 @@
+.main{
+    border: 2px 2px 2px 2px solid rgba(165, 80, 127, 0.315);
+}
+.One {
+
+    margin : 15px 15px 15px 15px;
+    padding : 15px 15px 15px 15px;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    right:50%;
+    left: 50%;
+}
+.OneTwo{
+    border: 5px solid rgb(25, 25, 241);
+    left:50%;
+    right:50%;
+    margin-right:50%;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    
+}
+.OneThree{
+    border: 5px solid rgb(25, 25, 241);
+    left:50%;
+    right:50%;
+    margin-right:50%;
+    display: flex;
+    margin-top: 15px;
+    padding : 20px 20px 20px 20px;
+    
+}
+.Two{
+    top : 50%;
+    margin-top : 25px;
+    margin-left: -100px;
+    padding : 15px 15px 15px 15px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    justify-items: center;
+}
+.TwoOne{
+    border: 5px solid rgb(25, 241, 25);
+    display: flex;
+    padding: 20px 20px 20px 20px;
+    margin-left:-500px;
+    left:30%;
+    justify-content: space-between;
+    justify-items: space-between;
+    
+}
+.TwoTwo{
+    border: 5px solid rgb(25, 241, 25);
+    margin-left:-300px;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: space-between;
+
+}
+.TwoThree{
+    border: 5px solid rgb(25, 241, 25);
+    margin-left:-300px;    
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: center;
+
+    justify-items: center;
+
+}
+.TwoFour{
+    border: 5px solid rgb(25, 241, 25);
+    margin-left:-300px;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+
+}   
+.Three{
+    border: 5px solid rgb(25, 241, 25);
+    left: 70%;
+    margin-top: -300px;
+    position:absolute;
+    padding : 500px 100px 100px 100px;
+}
+
+.Four{
+    
+    left: 85%;
+    margin-top: -300px;
+    position:absolute;
+    /* padding : 50px 100px 50px 100px; */
+}
+.Five{
+    top: 45%;
+    position:absolute;
+    display:flex;
+    left:85%;
+    padding : 50px 100px 50px 100px;
+    justify-content: space-between;
+    justify-items: space-between;
+}
+.FiveOne{
+    border: 5px solid rgb(25, 241, 25);
+    padding : 20px 20px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: space-between;
+    margin: 0px 10px 0px 10px;
+}
+.FiveTwo{
+    border: 5px solid rgb(25, 241, 25);
+    padding : 40px 30px 40px 30px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: space-between;
+    margin: 0px 10px 0px 10px;
+    border-radius:15px 15px 0px 10px;
+}
+.FourOne{
+    border: 5px solid rgb(25, 241, 25);
+
+    padding : 100px 100px 100px 100px;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    right:50%;
+    left: 50%;
+}
+.FourTwo{
+    border: 5px solid rgb(25, 241, 25);
+    padding : 50px 100px 50px 100px;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    right:50%;
+    left: 50%;
+    margin-top: 50px;
+}
